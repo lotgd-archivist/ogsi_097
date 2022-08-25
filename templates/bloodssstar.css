@@ -1,0 +1,184 @@
+/* CSS Document */
+td {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+        font-color: #B0B0B0;
+}
+a{
+    color: #cccccc;
+    text-decoration: underline, overline;
+}
+a:hover {
+    color: #33cc33;
+    text-decoration: none;
+}
+a.nav {
+    text-decoration: none;
+    width: 120px;
+    height: auto;
+    padding: 1px;
+    float: left;
+    clear: none;
+}
+a:hover.nav {
+    background-color: #000000;
+    color: #33cc33;
+}
+.navhelp {
+    text-decoration: none;
+    width: 150px;
+    height: auto;
+    padding: 1px;
+    float: left;
+    clear: none;
+}
+.navhead {
+    text-decoration: underline, overline;
+    width: 150px;
+    border: thin dotted #660099;
+    height: auto;
+    padding: 1px;
+    line-height: 11px;
+    float: left;
+    clear: none;
+    font-weight: bold;
+    color: #cccccc;
+    cursor: default;
+    text-align: center;
+}
+table {
+}
+td.charinfo {
+    border-width: 1px;
+    border-color: #cccccc;
+        border-left-style: dotted;
+        border-right-style: dotted;
+        border-bottom-style: groove;
+        border-top-style: hidden;
+    cursor: default;
+}
+td.charhead {
+        border-color: #cccccc;
+    border-width: 1px;
+    border-bottom-width: 1px;
+        border-right-style: dotted;
+        border-left-style: dotted;
+        border-bottom-style: ridge;
+        border-bottom-width: 3px;
+    cursor: default;
+    color: #33cc33;
+        font-weight: bold;
+}
+table.charinfo {
+    border: none;
+    width: 182px;
+}
+td.noborder {
+    border: none;
+}
+table.noborder {
+    border: none;
+}
+input {
+    background-color: #000000;
+    border: 1px inset #cccccc;
+    color: #cccccc;
+}
+.button {
+     font-family: verdana,arial,helvetica,sans-serif;
+     font-size: 12px;
+     color: #cccccc;
+     background-color: #000000;
+     border: 1px outset #cccccc;
+
+}
+.input {
+    background-color: #000000;
+    border: 1px solid #cccccc;
+    color: #CCCCCC;
+}
+select {
+    background-color: #000000;
+    border: 1px inset #cccccc;
+    color: #CCCCCC;
+}
+a.motd {
+    text-decoration: none;
+    text-align: center;
+    color:#cccccc;
+    width: 150px;
+    height: 11px;
+    padding: 1px;
+    float: left;
+    clear: none;
+    border: outset thin #330099;
+}
+a:hover.motd {
+    height: 10px;
+    width: 150px;
+    text-decoration: none;
+    color:#ffffff;
+    border: inset thin #330099;
+}
+a.hotmotd {
+    text-decoration: none;
+    text-align: center;
+    color:#33cc33;
+    width: 181px;
+    height: auto;
+    padding: 1px;
+    float: left;
+    clear: none;
+    border: thin dotted #330099;
+}
+.pagetitle {
+    font-family: "Old English Text MT", "Times New Roman";
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.navhi {
+    color: #33cc33;
+    text-decoration: none;
+}
+.colDkBlue			{ color: #3333CC; }
+.colDkGreen			{ color: #33CC33; }
+.colDkCyan			{ color: #33CCCC; }
+.colDkRed			{ color: #CC3333; }
+.colDkMagenta		{ color: #CC33CC; }
+.colDkYellow		{ color: #CCCC33; }
+.colDkWhite			{ color: #FFFFFF; }
+.colDkOrange		{ color: #FF6600; }
+.colDkBlack			{ color: #666666; }
+.colDkViolet		{ color: #AA00AA; }
+.colDkBrown			{ color: #6B563F; }
+.colLtBlue			{ color: #3333CC; }
+.colLtGreen			{ color: #33CC33; }
+.colLtCyan			{ color: #33CCCC; }
+.colLtRed			{ color: #CC3333; }
+.colLtMagenta		{ color: #CC33CC; }
+.colLtYellow		{ color: #CCCC33; }
+.colLtWhite			{ color: #CCCCCC; }
+.colLtBlack			{ color: #FFFFFF; }
+.colLtOrange		{ color: #FF9900; }
+.colLtViolet		{ color: #FF44FF; }
+.colLtBrown			{ color: #F8DB83; }
+.colBlue			{ color: #0070FF; }
+.colLime			{ color: #DDFFBB; }
+.colRose			{ color: #EEBBEE; }
+.colblueviolet		{ color: #9A5BEE; }
+.coliceviolet		{ color: #AABBEE; }
+.colXLtGreen		{ color: #AAFF99; }
+.colVomito			{ color: #7FCC61; }
+.colaquamarine		{ color: #68CCAA; }
+.colPrugna			{ color: #992459; }
+.collightsalmon		{ color: #FFA07A; }
+.colsalmon			{ color: #F77667; }
+.colSenape			{ color: #FFCE3D; }
+.colDkSenape		{ color: #D18700; }
+.colAttention		{ background-color: #00FF00; color: #FF0000; }
+.colWhiteBlack		{ background-color: #FFFFFF; color: #000000; }
+.colBack			{ background-color: #00FFFF; color: #000000; }
+.colredBack			{ background-color: #FF0000; color: #FFFFFF; }
+.trhead				{ background-color: #454545; color: #FFFFFF; }
+.trlight			{ background-color: #666666; }
+.trdark				{ background-color: #333333; }

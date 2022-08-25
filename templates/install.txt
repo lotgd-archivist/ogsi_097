@@ -1,0 +1,22 @@
+To Install:
+
+Unzip then upload contents into your '\templates' direcery.
+
+Files should be...
+
+(logd dir)/templates/jade.htm
+(logd dir)/templates/jade.css
+(logd dir)/templates/jade/trt.gif
+(logd dir)/templates/jade/trc.gif
+(logd dir)/templates/jade/tm.gif
+(logd dir)/templates/jade/tlt.gif
+(logd dir)/templates/jade/tlc.gif
+(logd dir)/templates/jade/spacer.gif
+(logd dir)/templates/jade/logo.jpg
+(logd dir)/templates/jade/btm.gif
+(logd dir)/templates/jade/brc.gif
+(logd dir)/templates/jade/blc.gif
+
+Report any bugs to design@hfs.cjb.net
+
+DO NOT REMOVE COPYRIGHT!!

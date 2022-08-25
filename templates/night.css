@@ -1,0 +1,210 @@
+/* CSS Document */
+td {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+table.nav {
+/*  background-color: #000000;*/
+/*  border: 1px solid #000000;*/
+    height: auto;
+    width: 135px;
+}
+
+.navhead {
+    text-decoration: none;
+    width: 125px;
+    height: auto;
+    padding: 1px;
+    line-height: 8px;
+    float: center;
+    clear: none;
+    /*background-color: #000000;*/
+    font-weight: bold;
+    color: #D1D6BD;
+    cursor: default;
+    text-align: center;
+}
+
+a {
+    color: #808080;
+    text-decoration: none;
+}
+
+a.nav {
+    text-decoration: none;
+    width: 135px;
+    height: auto;
+    padding: 1px;
+    float: left;
+    clear: none;
+    /*background-color: #000000;
+    border: 1px solid #000000;*/
+}
+
+.navhelp {
+    text-decoration: none;
+    width: 135px;
+    height: auto;
+    padding: 1px;
+    float: left;
+    clear: none;
+    /*background-color: #000000;
+    border: 1px solid #000000;*/
+}
+
+a:hover.nav {
+    /*background-color: #111111;*/
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+}
+a.navhilite {
+    text-decoration: none;
+    width: 135px;
+    height: auto;
+    padding: 1px;
+    float: right;
+    clear: none;
+    color:#FFFF00;
+    background-color: #330000;
+    border-top: thin solid #330000;
+    border-bottom: thin solid #330000;
+    border-right: thin none #330000;
+    border-left: thin none #330000;
+}
+a:hover.navhilite {
+    background-color: #990000;
+    border-top: thin outset #CC0000;
+    border-right: thin none #CC0000;
+    border-bottom: thin outset #CC0000;
+    border-left: thin none #CC0000;
+}
+
+
+table {
+}
+table.charinfo {
+    border: none;
+    width: 100px;
+    font-size: 9px;
+
+}
+td.charhead {
+    /*background-color: #009900;*/
+    border: none;
+    cursor: default;
+    color: #cccccc;
+}
+table.charinfo {
+    border: none;
+    width: 140px;
+    color:#666666;
+}
+
+td.noborder {
+    border: none;
+}
+table.noborder {
+    border: none;
+}
+
+input {
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    color: #CCCCCC;
+}
+.button {
+font-family: verdana,arial,helvetica,sans-serif;
+     font-size: 12px;
+     color: #cccccc;
+    /* background-color: #000000; */
+     border-top: 1px solid #ffffff;
+     border-left: 1px solid #ffffff;
+     border-right: 1px solid #c0c0c0;
+     border-bottom: 1px solid #c0c0c0;
+}
+.input {
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    color: #CCCCCC;
+}
+select {
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    color: #CCCCCC;
+}
+table.vitalinfo {
+    /*background-color: #000000;*/
+    border: 1px solid #000000;
+    width: 160px;
+}
+a.motd {
+    text-decoration: none;
+    color:#FF9900;
+}
+a:hover.motd {
+    font-weight: bold;
+    color:#ff0000;
+}
+
+a.hotmotd {
+    font-weight: bold;
+    color:#ff0000;
+}
+.pagetitle {
+    font-family: "Old English Text MT", "Times New Roman";
+  font-size: 20px;
+    color: #FFFFFF;
+}
+td.footer {
+    background-repeat: repeat-x;
+    background-position: top;
+}
+.navhi {
+    color: #00FF00;
+    text-decoration: underline;
+}
+.colDkBlue			{ color: #4444BB; }
+.colDkGreen			{ color: #00B000; }
+.colDkCyan			{ color: #00B0B0; }
+.colDkRed			{ color: #B00000; }
+.colDkMagenta		{ color: #B000CC; }
+.colDkYellow		{ color: #B0B000; }
+.colDkWhite			{ color: #B0B0B0; }
+.colDkOrange		{ color: #BB5000; }
+.colDkBlack			{ color: #666666; }
+.colDkViolet		{ color: #AA00AA; }
+.colDkBrown			{ color: #6B563F; }
+.colLtBlue			{ color: #0000FF; }
+.colLtGreen			{ color: #00FF00; }
+.colLtCyan			{ color: #00FFFF; }
+.colLtRed			{ color: #FF0000; }
+.colLtMagenta		{ color: #FF00FF; }
+.colLtYellow		{ color: #FFFF00; }
+.colLtWhite			{ color: #FFFFFF; }
+.colLtBlack			{ color: #888888; }
+.colLtOrange		{ color: #FF7700; }
+.colLtViolet		{ color: #FF44FF; }
+.colLtBrown			{ color: #F8DB83; }
+.colBlue			{ color: #0070FF; }
+.colLime			{ color: #DDFFBB; }
+.colRose			{ color: #EEBBEE; }
+.colblueviolet		{ color: #9A5BEE; }
+.coliceviolet		{ color: #AABBEE; }
+.colXLtGreen		{ color: #AAFF99; }
+.colVomito			{ color: #7FCC61; }
+.colaquamarine		{ color: #68CCAA; }
+.colPrugna			{ color: #992459; }
+.collightsalmon		{ color: #FFA07A; }
+.colsalmon			{ color: #F77667; }
+.colSenape			{ color: #FFCE3D; }
+.colDkSenape		{ color: #D18700; }
+.colAttention		{ background-color: #00FF00; color: #FF0000; }
+.colWhiteBlack		{ background-color: #FFFFFF; color: #000000; }
+.colBack			{ background-color: #00FFFF; color: #000000; }
+.colredBack			{ background-color: #FF0000; color: #FFFFFF; }
+.trhead				{ background-color: #990000; color: #FFFFFF; }
+.trlight			{ background-color: #330000; }
+.trdark				{ background-color: #000000; }

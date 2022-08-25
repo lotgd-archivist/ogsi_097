@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /images/
+Disallow: /special/
+Disallow: /stats/
+Disallow: /images/
+Disallow: /lib/
+Disallow: /templates/
